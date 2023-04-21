@@ -1,1 +1,5 @@
-greeting: Hello From ServiceA 
+server:
+  port: 8090
+
+greeting: Hello from Service A
+message:
